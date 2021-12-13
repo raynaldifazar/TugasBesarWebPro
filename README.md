@@ -1,3 +1,3 @@
 # TugasBesarWebpro
 
-This web application should be using xampp
+This web application should be open using xampp, and MySQL
