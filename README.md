@@ -1,3 +1,5 @@
 # TugasBesarWebpro
 
-This web application should be open using xampp, and MySQL
+Website Buzzcomputer menggunakan  PHP Murni.
+
+Gunakan XAMPP, dan MySQL untuk menjalankan website ini.
